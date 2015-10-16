@@ -2,6 +2,8 @@
 
 Designed for the TNRIS conference to learn how to build apps with Web AppBuilder and AppStudio. 
 
+![Steps](./tnris-graphic.jpg)
+
 ## Getting Started
 
 Follow these steps to prepare for the workshop.
