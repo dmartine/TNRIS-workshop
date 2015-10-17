@@ -18,3 +18,8 @@ Follow these steps to prepare for the workshop.
 ## Labs
 
 The labs should be completed in order. You can use the default data, but if you have your own data please feel free to do so. Don't forget to share your apps with the [Tnris Workshop Share] (http://www.arcgis.com/home/group.html?id=74b23c8bd15146dfa19db06f9b12f6d4) group.
+
+### Web AppBuilder for ArcGIS
+
+
+### AppStudio for ArcGIS
