@@ -5,14 +5,18 @@
 In this lab, you will use AppStudio to build an iOS and an Android native app from a single webmap.
 
 
-__Install AppBuilder__
 
-
-1. Click [this link](http://doc.arcgis.com/en/appstudio/) to go to the AppStudio download site. 
+1. Click [this link](https://appstudio.arcgis.com/create.html) to go to the AppStudio website. 
 
 2. Sign in with your ArcGIS developer or Organization account.
 
-3. Click `AppStudio for ArcGIS` > `Download Software` and install the software. Or better yet, install locally if you have access to the installation files.
+3. Scroll down to the Map Viewer section and click start with this template.
+
+4. Download [this image](http://esri.github.io/geodev-hackerlabs/resources/pdxbackground.jpeg) for the background. 
+
+5. Click Thumbnail 
+
+5. and install the software. Or better yet, install locally if you have access to the installation files.
 
  NOTE: The files are 250-500+ MB so please be patient for it to download.
 
