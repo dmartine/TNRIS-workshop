@@ -27,3 +27,4 @@ The labs should be completed in order. You can use the default data, but if you 
  * [Deploy to ArcGIS Online](./web/wab_deploy.md)
 
 ### AppStudio for ArcGIS
+ * [Create an AppStudio App](./native/create_an_appstudio_app.md)
