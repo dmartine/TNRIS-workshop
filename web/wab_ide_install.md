@@ -12,5 +12,3 @@ Now you are able to start creating new applications in the browser on your devel
 
 ![running-wab](./running-wab.png)
 
-###Extras
-* Install on a Mac!
