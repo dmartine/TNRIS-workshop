@@ -152,7 +152,7 @@ In this lab you will add a custom theme to Web AppBuilder and style the Geocoder
 	  	border: none;
 	}
 	```
-6. Click config.json in BrightTheme\layouts\default to add the Geocoder Custom Widget to the Header Controller. Modify the existing uri titled "widgets/Geocoder/Widget at line 14 and update the JSON as below. 
+6. Click config.json in BrightTheme\layouts\default to add the Geocoder Custom Widget to the Header Controller. Modify the existing uri titled "widgets/Geocoder/Widget" at line 14 and update the JSON as below. 
 
 	```json
 	{
