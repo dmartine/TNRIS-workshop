@@ -19,5 +19,5 @@ In this lab you will build a simple WAB app to use throughout the workshop.
 
 7. Click `Save`.
 
-8. Click `Launch` to test the application try searching for your favorite spot (e.g., Amaya's Taco Village) to view the score.
+8. Click `Launch` to test the application. Try searching for your favorite spot (e.g., Amaya's Taco Village) to view the score.
 
