@@ -24,10 +24,6 @@ In this exercise, you will:
 
 ![export template](./wab_group.png)
 
-6. In the `Map` tab of the Organization’s settings (available to administrators from Home > Edit Settings), choose this new group from the dropdown.
+6. Click `My Organization` > `Edit Settings` > `Map` in the `Web App Templates` choose the new group from the dropdown and click `Save`.
 
 7. Afterwards, share your new template with this group.  (This would also be a good opportunity to confirm that it appears to webmap authors as a configurable template when they share their own maps).
-
-
-### Extras
- * Use your new custom template to share a new webmap in ArcGIS Online.
