@@ -10,7 +10,7 @@ In order to integrate custom widgets and themes it's necessary to host applicati
 
 You are now ready to start creating web apps. Proceed to the next lab [Create a Web App](./wab_first_app.md). 
 
-### This is URL of your Web AppBuilder Dev Edition
+### This is the URL of your Web AppBuilder Dev Edition
 [http://localhost:3344/webappbuilder](http://localhost:3344/webappbuilder)
 
 ![running-wab](./running-wab.png)
