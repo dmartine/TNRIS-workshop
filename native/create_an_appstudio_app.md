@@ -12,7 +12,8 @@ In this lab, you will use AppStudio to build an iOS and an Android native app fr
 
 3. Sign in with your ArcGIS developer or Organization account.
 
-4. Enter in a title for your app. For the `Thumbail` download [this image] (https://github.com/dmartine/TNRIS-workshop/blob/master/native/resources/beerthumbnail_200.png).
+4. Download [the images] (https://onedrive.live.com/redir?resid=C6391DBDAAFC7209!29697&authkey=!ABHcU1LSk7LrIFw&ithint=folder%2c) for this app.
+5. Enter in a title for your app. For the `Thumbail` download [this image] (https://github.com/dmartine/TNRIS-workshop/blob/master/native/resources/beerthumbnail_200.png).
 
 5. For the `Background Image` download [this image](https://github.com/dmartine/TNRIS-workshop/blob/master/native/resources/beerbackground1024.jpg)
 
