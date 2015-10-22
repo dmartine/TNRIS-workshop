@@ -15,7 +15,7 @@ In this exercise, you will:
 
 3. Give the template a name, tags, description and save it in your folder of choice and click `OK`.
 
-![save template](./wab_save_dialog.png)
+![succesful export template](./wab_exporttemplate_dialog.png)
 
 4. Choose `click here` to see the item details page for your new template and use the ‘share’ button to share with an appropriate group.
   * If you have not yet configured ArcGIS Online to surface custom templates to webmap authors it will be necessary to follow the steps below.
