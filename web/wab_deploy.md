@@ -22,7 +22,7 @@ In this exercise, you will:
 
 4. Click `item` to view your template > `Groups` (in the top lefthand corner of most ArcGIS Online pages) and choose `Create a Group`.  Fill in the appropriate details and share the Group within your organization.
 
-![export template](./wab_group.png)
+  ![export template](./wab_group.png)
 
 5. Click `My Organization` > `Edit Settings` > `Map` in the `Web App Templates` choose the new group from the dropdown and click `Save`.
 
