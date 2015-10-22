@@ -8,9 +8,12 @@ In this lab, you will use AppStudio to build an iOS and an Android native app fr
 
 1. Click [this link](https://appstudio.arcgis.com/create.html) to go to the AppStudio website. 
 
-2. Sign in with your ArcGIS developer or Organization account.
+2. Scroll down to the Map Viewer section and click `start with this template`.
 
-3. Scroll down to the Map Viewer section and click start with this template.
+3. Sign in with your ArcGIS developer or Organization account.
+
+4. Download 
+
 
 4. Download [this image](http://esri.github.io/geodev-hackerlabs/resources/pdxbackground.jpeg) for the background. 
 
