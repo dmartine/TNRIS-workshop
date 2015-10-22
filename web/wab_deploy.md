@@ -20,7 +20,7 @@ In this exercise, you will:
  ![succesful export template](./wab_exporttemplate.PNG)
 
 
-4. Click `Groups` (in the top lefthand corner of most ArcGIS Online pages) and choose `Create a Group`.  Fill in the appropriate details and share the Group within your organization.
+4. Click `item` to view your template > `Groups` (in the top lefthand corner of most ArcGIS Online pages) and choose `Create a Group`.  Fill in the appropriate details and share the Group within your organization.
 
 ![export template](./wab_group.png)
 
