@@ -24,7 +24,7 @@ In this exercise, you will:
 
   ![export template](./wab_group.png)
 
-5. Click `My Organization` > `Edit Settings` > `Map` in the `Web App Templates` choose the new group from the dropdown and click `Save`.
+5. Click `My Organization` > `Edit Settings` > `Map` and in the `Web App Templates` choose the new group from the dropdown and click `Save`.
 
 6. Share your new template with this group.  
 
