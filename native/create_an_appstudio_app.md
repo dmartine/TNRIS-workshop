@@ -12,7 +12,7 @@ In this lab, you will use AppStudio to build an iOS and an Android native app fr
 
 3. Sign in with your ArcGIS developer or Organization account.
 
-4. Download [these images]
+4. Download [the images] (./native/resources) 
 
 
 4. Download [this image](http://esri.github.io/geodev-hackerlabs/resources/pdxbackground.jpeg) for the background. 
