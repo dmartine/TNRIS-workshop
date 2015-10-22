@@ -20,10 +20,10 @@ In this exercise, you will:
  ![succesful export template](./wab_exporttemplate.PNG)
 
 
-5. Click `Groups` (in the top lefthand corner of most ArcGIS Online pages) and choose `Create a Group`.  Fill in the appropriate details and share the Group within your organization.
+4. Click `Groups` (in the top lefthand corner of most ArcGIS Online pages) and choose `Create a Group`.  Fill in the appropriate details and share the Group within your organization.
 
 ![export template](./wab_group.png)
 
-6. Click `My Organization` > `Edit Settings` > `Map` in the `Web App Templates` choose the new group from the dropdown and click `Save`.
+5. Click `My Organization` > `Edit Settings` > `Map` in the `Web App Templates` choose the new group from the dropdown and click `Save`.
 
-7. Afterwards, share your new template with this group.  (This would also be a good opportunity to confirm that it appears to webmap authors as a configurable template when they share their own maps).
+6. Afterwards, share your new template with this group.  (This would also be a good opportunity to confirm that it appears to webmap authors as a configurable template when they share their own maps).
