@@ -11,7 +11,7 @@ In this lab you will build a simple WAB app to use throughout the workshop.
 4. Click `Widget`
   * `Search` widget >`Configure this widget` and under `Name` click the `Delete icon` to remove the Esri World Geocoder.
   * Change the placeholder text to `Find Restaurants by Score` and click `OK`.
-  * Click `Anchor Bar Controller` > `+` to add a new widget > 'Time Slider` widget and click `OK` twice.
+  * Click `Anchor Bar Controller` > `+` to add a new widget > `Time Slider` widget and click `OK` twice.
 
 ![wab_searchwidget](./wab_searchwidget.png)
 
