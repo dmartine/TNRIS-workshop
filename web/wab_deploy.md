@@ -13,7 +13,7 @@ In this exercise, you will:
 
 ![export template](./wab_export.png)
 
-3. Give the template a name, tags, description and save it in your folder of choice.
+3. Give the template a name, tags, description and save it in your folder of choice and click `OK`.
 
 ![save template](./wab_save_dialog.png)
 
