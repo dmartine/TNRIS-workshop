@@ -21,6 +21,7 @@ The labs should be completed in order. You can use the default data, but if you 
 
 ### Web AppBuilder for ArcGIS (Developer Edition)
  * [Setup Development Environment](./web/wab_ide_install.md)
+ * [Create your First App]
  * [Add a Custom Widget](./web/wab_custom_widget.md) 
  * [Add a Custom Theme](./web/wab_custom_theme.md)
  * [Add a Custom Configurable Widget](./web/wab_config_widget.md)
