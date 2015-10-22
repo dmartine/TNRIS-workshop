@@ -6,9 +6,10 @@ In this lab, you will build a simple WAB app to use throughout the workshop.
 
 2. In `Theme` Click `Launchpad Theme`.
 
-3. Click `Map` > `Choose Web Map` > `Public` > `ArcGIS.com` and search for Austin Tnris. Click the Austin Restaurant Inspection Scores map and click `OK`.
+3. Click `Map` > `Choose Web Map` > `Public` > `ArcGIS.com` and search for Austin Tnris. Click the Austin Restaurant Inspection    Scores map and click `OK`.
 
-4. Click `Widget` > `Search` widget
+4. Click `Widget` > `Search` widget >`Configure this widget` and under `Name` move up the Inspection Score so it is the first      search source.
+5. 
 ![wab_searchwidget](./wab_searchwidget.png)
 
  * Add the `My Location` widget.
