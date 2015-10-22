@@ -15,7 +15,7 @@ In this exercise, you will:
 
 3. Give the template a name, tags, description and save it in your folder of choice and click `OK`.
 
-*If you have not configured ArcGIS Online to share custom templates you will see the following message. 
+ * If you have not configured ArcGIS Online to share custom templates you will see the following message. 
 
  ![succesful export template](./wab_exporttemplate.PNG)
 
