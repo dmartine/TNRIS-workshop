@@ -15,10 +15,10 @@ In this exercise, you will:
 
 3. Give the template a name, tags, description and save it in your folder of choice and click `OK`.
 
-4. Click `item` to see the item details page for your new template and use the ‘share’ button to share with an appropriate group.
-![succesful export template](./wab_exporttemplate.PNG)
+*If you have not configured ArcGIS Online to share custom templates you will see the following message. 
 
-  * If you have not yet configured ArcGIS Online to surface custom templates to webmap authors it will be necessary to follow the steps below.
+ ![succesful export template](./wab_exporttemplate.PNG)
+
 
 5. Click `Groups` (in the top lefthand corner of most ArcGIS Online pages) and choose `Create a Group`.  Fill in the appropriate details and share the Group within your organization.
 
