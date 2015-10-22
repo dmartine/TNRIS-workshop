@@ -12,14 +12,15 @@ In this lab, you will use AppStudio to build an iOS and an Android native app fr
 
 3. Sign in with your ArcGIS developer or Organization account.
 
-4. Download [the images] (https://onedrive.live.com/redir?resid=C6391DBDAAFC7209!29697&authkey=!ABHcU1LSk7LrIFw&ithint=folder%2c) for this app.
-5. Enter in a title for your app. For the `Thumbail` download [this image] (https://github.com/dmartine/TNRIS-workshop/blob/master/native/resources/beerthumbnail_200.png).
+4. Download [the images] (https://onedrive.live.com/redir?resid=C6391DBDAAFC7209!29697&authkey=!ABHcU1LSk7LrIFw&ithint=folder%2c) you are going to use to build this app.
 
-5. For the `Background Image` download [this image](https://github.com/dmartine/TNRIS-workshop/blob/master/native/resources/beerbackground1024.jpg)
+5. Enter in a title for your app. For the `Thumbail` image use the beerthumbail_200.png.
 
-6. For the `App Icon` download [this image] (https://github.com/dmartine/TNRIS-workshop/blob/master/native/resources/beer_glass_icon_256.png). 
+5. For the `Background Image` use the beerbackground1024.jpg)
 
-4. Download [the images] (./native/resources) 
+6. For the `App Icon` use the beer_glass_icon_256.png and in the `Background Color` enter in #12142b and click `Save`.   
+
+7. Click ` Map Viewer Setting` and for the `Start Background Image` use beerbackground1024.jpg. Click `Start Button` and use brewerybutton.png. 
 
 
 4. Download [this image](http://esri.github.io/geodev-hackerlabs/resources/pdxbackground.jpeg) for the background. 
