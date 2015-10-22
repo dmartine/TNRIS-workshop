@@ -8,7 +8,7 @@ In order to integrate custom widgets and themes its necessary to host applicatio
 
 3. Create an *AppID* for Web AppBuilder in [arcgis.com](http://www.arcgis.com) so that you can leverage OAuth to sign into ArcGIS Online (more info can be found [here](https://developers.arcgis.com/web-appbuilder/guide/getstarted.htm))
 
-You are now ready to start creating web apps. Proceed to the next lab [Create a Web App](./web/wab_first_app.md). 
+You are now ready to start creating web apps. Proceed to the next lab [Create a Web App](./wab_first_app.md). 
 
 [http://localhost:3344/webappbuilder](http://localhost:3344/webappbuilder)
 
