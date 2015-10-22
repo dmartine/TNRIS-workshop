@@ -15,9 +15,6 @@ In this lab you will build a simple WAB app to use throughout the workshop.
 
 ![wab_searchwidget](./wab_searchwidget.png)
 
- * Add the `My Location` widget.
- * Change the placeholder text in the `Geocoder` widget to `"Explore Porland"`.
-
 6. Click `Attribute` and change the subtitle to `Who has the best score?`.
 
 7. Click `Save`.
