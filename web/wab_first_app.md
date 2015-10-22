@@ -9,7 +9,7 @@ In this lab, you will build a simple WAB app to use throughout the workshop.
 3. Click `Map` > `Choose Web Map` > `Public` > `ArcGIS.com` and search for Austin Tnris. Click the Austin Restaurant Inspection Scores map and click `OK`.
 
 4. Click `Widget` > `Search` widget
-
+![wab_searchwidget](./wab_searchwidget.png)
 
  * Add the `My Location` widget.
  * Change the placeholder text in the `Geocoder` widget to `"Explore Porland"`.
