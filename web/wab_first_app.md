@@ -1,6 +1,6 @@
 ###Create a Web AppBuilder Application
 
-In this lab, you will build a simple WAB app to use throughout the workshop.
+In this lab you will build a simple WAB app to use throughout the workshop.
 
 1. Click `Create New` > `Default` > `Next` and give it a title and description and click `OK`.
 
@@ -22,6 +22,5 @@ In this lab, you will build a simple WAB app to use throughout the workshop.
 
 7. Click `Save`.
 
-8. Click `Launch` to test the application.
-9. Click in the search bar and type Amaya's Taco Village to find the feature for that restaurant inspect
+8. Click `Launch` to test the application try searching for your favorite spot (e.g., Amaya's Taco Village) to view the score.
 
