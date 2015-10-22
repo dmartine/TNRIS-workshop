@@ -15,7 +15,7 @@ In this exercise, you will:
 
 3. Give the template a name, tags, description and save it in your folder of choice and click `OK`.
 
- * If you have not configured ArcGIS Online to share custom templates you will see the following message. 
+ * If you have not configured ArcGIS Online to share custom templates you will see the following message. Proceed to step 4. If you have configured ArcGIS Online to share custom templates Click `here` and proceed to step 7.  
 
  ![succesful export template](./wab_exporttemplate.PNG)
 
@@ -26,4 +26,6 @@ In this exercise, you will:
 
 5. Click `My Organization` > `Edit Settings` > `Map` in the `Web App Templates` choose the new group from the dropdown and click `Save`.
 
-6. Afterwards, share your new template with this group.  (This would also be a good opportunity to confirm that it appears to webmap authors as a configurable template when they share their own maps).
+6. Share your new template with this group.  
+
+7. Test your template in the Map Viewer by creating an application with this configurable template.
