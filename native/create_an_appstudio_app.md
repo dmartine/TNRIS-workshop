@@ -22,6 +22,8 @@ In this lab, you will use AppStudio to build an iOS and an Android native app fr
 
 7. Click ` Map Viewer Setting` and for the `Start Background Image` use beerbackground1024.jpg. Click `Start Button` and use brewerybutton.png. 
 
+8. Click `Set`  
+
 
 4. Download [this image](http://esri.github.io/geodev-hackerlabs/resources/pdxbackground.jpeg) for the background. 
 
