@@ -4,7 +4,7 @@ In this lab, you will build a simple WAB app to use throughout the workshop.
 
 1. Click `Create New` > `Default` > `Next` and give it a title and description and click `OK`.
 
-2. Click `Launchpad Theme` > `Map` > `Choose Web Map` > `Public` > `ArcGIS.com` and search for Austin Tnris and click the Austin Restaurant Inspection Scores map.
+2. Click `Launchpad Theme` > `Map` > `Choose Web Map` > `Public` > `ArcGIS.com` and search for Austin Tnris. Click the Austin Restaurant Inspection Scores map.
 
 3. Set the following properties:
 
