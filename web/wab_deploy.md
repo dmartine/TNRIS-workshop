@@ -11,7 +11,7 @@ In this exercise, you will:
 
 2. In the `Theme` tab click the `^` to the right of the Saved button > `Export As Template` and select the individual options you want to make configurable for webmap authors later and then click `Export` > `Export to My Organization`.
 
-![export template](./wab_export.png)
+  ![export template](./wab_export.png)
 
 3. Give the template a name, tags, description and save it in your folder of choice and click `OK`.
 
