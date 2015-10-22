@@ -4,21 +4,12 @@ In this lab, you will build a simple WAB app to use throughout the workshop.
 
 1. Click `Create New` > `Default` > `Next` and give it a title and description and click `OK`.
 
-2. Click `Launchpad Theme` > `Map` > `Choose Web Map` > `Public` > `ArcGIS.com` and search for Austin Tnris. Click the Austin Restaurant Inspection Scores map.
+2. In `Theme` Click `Launchpad Theme`.
 
-3. Set the following properties:
+3. Click `Map` > `Choose Web Map` > `Public` > `ArcGIS.com` and search for Austin Tnris. Click the Austin Restaurant Inspection Scores map and click `OK`.
 
- ```
- Title: Portland Neighborhoods WAB App
- Tags: Portland, Map, WAB App
- Description: Portland neighborhood map built with the Web App Builder
- ```
+4. Click `Widget` > `Search` widget
 
- Click `Get Started`
-
-4. In `Themes` and set the `Style` > `Black`.
-
-5. Click `Widget`
 
  * Add the `My Location` widget.
  * Change the placeholder text in the `Geocoder` widget to `"Explore Porland"`.
