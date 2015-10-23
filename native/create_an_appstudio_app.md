@@ -24,7 +24,9 @@ In this lab, you will use AppStudio to build an iOS and an Android native app fr
 
 8. Click `Set` > and in search type `Tnris` > click the `Breweries in Texas` webmap > click `OK` > `Save and Finish`.
 
-9. Congrats you just created your first native app with AppStudio. To view it, you can either download the iOS or Android player or [download the desktop version of AppStudio] (http://appstudio.arcgis.com/download.html).  
+9. Congrats you just created your first native app with AppStudio. To view it, you can use the AppStudio Player for ArcGIS in iOS or Android. If you have a device that supports one of these operating systems go ahead and download them. 
+
+10. or [download the desktop version of AppStudio] (http://appstudio.arcgis.com/download.html).  
 
 
 
