@@ -26,7 +26,7 @@ In this lab, you will use AppStudio to build an iOS and an Android native app fr
 
 9. Congrats you just created your first native app with AppStudio. To view it, you can use the AppStudio Player for ArcGIS in iOS or Android. If you have a device that supports one of these operating systems go ahead and download it. 
 
-* ** If you don't have an iOS or Android go to step 11. 
+ * If you don't have an iOS or Android go to step 11. 
 
 11. or [download the desktop version of AppStudio] (http://appstudio.arcgis.com/download.html).  
 
