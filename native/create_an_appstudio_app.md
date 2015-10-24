@@ -28,7 +28,7 @@ In this lab, you will use AppStudio to build an iOS and an Android native app fr
 
  * If you don't have an iOS or Android go to step 11. 
 
-10. Open AppStudio Player and `Sign In` to view your apps. Select the app you just created and select `Yes` to download the selected app to your device. Once the download is complete click `OK`. Select the app again and you now have that app running in the AppStudio Player.  
+10. Open AppStudio Player and `Sign In` to view your apps. Select the app you just created and select `Yes` to download the selected app to your device. Once the download is complete click `OK`. Select the app again and you now have that app running in AppStudio Player.  
 
 11. or [download the desktop version of AppStudio] (http://appstudio.arcgis.com/download.html).  
 
