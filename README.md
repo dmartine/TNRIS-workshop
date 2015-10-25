@@ -29,3 +29,4 @@ The labs should be completed in order. You can use the default data, but if you 
 
 ### AppStudio for ArcGIS
  * [Create an AppStudio App](./native/create_an_appstudio_app.md)
+ * [Deploy an AppStudio App](./native/deploy_an_appstudio_app.md)
