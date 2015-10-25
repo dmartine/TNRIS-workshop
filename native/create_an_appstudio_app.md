@@ -32,6 +32,6 @@ In this lab, you will use AppStudio to build an iOS and an Android native app fr
 
 11. You can also view your application on your desktop before you build the binaries. Click [this link] (http://appstudio.arcgis.com/download.html) to download AppStudio for ArcGIS Desktop edition.
 
-12. Open AppStudio for ArcGIS on your desktop and click ` Sign In`. Click the thumbnail icon for your app and select `Yes` to download the selected app to your computer. After the download completes double click your app and you now have that app running in AppStudio Player. 
+12. Open AppStudio for ArcGIS on your desktop and click `Sign In`. Click the thumbnail icon for your app and select `Yes` to download the selected app to your computer. After the download completes double click your app and now have that app running in AppStudio Player. 
 
 
