@@ -4,8 +4,6 @@
 
 In this lab, you will use AppStudio to build an iOS and an Android native app from a single webmap.
 
-
-
 1. Click [this link](https://appstudio.arcgis.com/create.html) to go to the AppStudio website. 
 
 2. Scroll down to the Map Viewer section and click `start with this template`.
