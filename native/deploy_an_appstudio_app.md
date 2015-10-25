@@ -1,6 +1,6 @@
 ###Deploy an AppStudio App
 
-In this lab, you will deploy an app created with AppStudio.
+In this exercise, you will deploy an app created with AppStudio.
 
 1. Click [this link](https://appstudio.arcgis.com/) to go to the AppStudio website. 
 
