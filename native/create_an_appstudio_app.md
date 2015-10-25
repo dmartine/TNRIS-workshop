@@ -2,7 +2,7 @@
 
 [AppStudio for ArcGIS](http://www.esri.com/landing-pages/appstudio) allows you to easily build native apps from existing web maps and templates for Android, iOS, Window, Mac OS X and Linux. You can also build custom apps from scratch with Qt/QML. Visit the [help](http://doc.arcgis.com/en/appstudio/) for more information.
 
-In this lab, you will use AppStudio to build an iOS and an Android native app from a single webmap.
+In this exercise, you will use AppStudio to build a native app from a single webmap.
 
 1. Click [this link](https://appstudio.arcgis.com/create.html) to go to the AppStudio website. 
 
@@ -22,7 +22,7 @@ In this lab, you will use AppStudio to build an iOS and an Android native app fr
 
 9. Click `Set` > and in search type `Tnris` > click the `Breweries in Texas` webmap > click `OK` > `Save and Finish`.
 
-10. Congrats you just created your first native app with AppStudio. To view it before you build the binaries for your plaform of choice you can use AppStudio Player for ArcGIS in iOS or Android. If you have a device that supports one of these operating systems go ahead and download it from the App Store or Google Play. 
+10. To view your app before you build the binaries for your plaform of choice you can use AppStudio Player for ArcGIS in iOS or Android. If you have a device that supports one of these operating systems go ahead and download it from the App Store or Google Play. 
 
  * If you don't have an iOS or Android go to step 12. 
 
