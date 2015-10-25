@@ -1,16 +1,14 @@
-###Create an AppStudio App
+###Deploy an AppStudio App
 
-[AppStudio for ArcGIS](http://www.esri.com/landing-pages/appstudio) allows you to easily build native apps from existing web maps and templates for Android, iOS, Window, Mac OS X and Linux. You can also build custom apps from scratch with Qt/QML. Visit the [help](http://doc.arcgis.com/en/appstudio/) for more information.
+In this lab, you will deploy an app created with AppStudio.
 
-In this lab, you will use AppStudio to build an iOS and an Android native app from a single webmap.
-
-1. Click [this link](https://appstudio.arcgis.com/create.html) to go to the AppStudio website. 
+1. Click [this link](https://appstudio.arcgis.com/) to go to the AppStudio website. 
 
 2. Scroll down to the Map Viewer section and click `start with this template`.
 
-3. Sign in with your ArcGIS developer or Organization account.
+3. Click `Sign In` > click `My Apps` > click your app > click `Build App` > select `Windows x86(32 bit)` > click `Build`.
 
-4. Download [the images] (https://onedrive.live.com/redir?resid=C6391DBDAAFC7209!29697&authkey=!ABHcU1LSk7LrIFw&ithint=folder%2c) you are going to use to build this app.
+4. .
 
 5. Enter in a title for your app. For the `Thumbail` image use the beerthumbail_200.png.
 
