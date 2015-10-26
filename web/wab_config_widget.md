@@ -33,7 +33,17 @@ In this lab you will add a configurable Widget to Web AppBuilder.
         "id": "widgets_FeatureLayer_filter_Widget_32" 
 
 ```
-11. Add `"openAtStart": true,`
+11. Under `index` add `"openAtStart": true,` > click `Save`. This will launch the Inspection Ratings Filter when the map loads. Your JSON should now appear as below:
+```json
+        "name": "FeatureLayer_filter",
+        "label": "Inspection Ratings Filter",
+        "version": "0.1.1",
+        "uri": "widgets/FeatureLayer_filter/Widget",
+        "index": 5,
+        "openAtStart": true,
+        "id": "widgets_FeatureLayer_filter_Widget_32"
+
+```
 4. Click Save>Launch.
 
 
