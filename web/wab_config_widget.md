@@ -8,20 +8,20 @@ In this lab you will add a configurable Widget to Web AppBuilder.
 
 2. In `Theme` Click `Launchpad Theme`.
 
-3. Click `Map` > `Choose Web Map` > `Public` > `ArcGIS.com` and search for Austin Tnris. Click the Austin Restaurant Inspection    Scores map and click `OK`.
+3. Click `Map` > `Choose Web Map` > `Public` > `ArcGIS.com` and search for `tnris inspection scores`. Click the `Restaurant Inspection Scores Austin` map and click `OK`.
 
 4. Click `Widget`
-  * `Search` widget >`Configure this widget` and under `Name` click the `Delete icon` to remove the Esri World Geocoder.
-  * Change the placeholder text to `Find Restaurants by Score` and click `OK`.
-  * Click `Anchor Bar Controller` > `+` to add a new widget > `Time Slider` widget and click `OK` twice.
+  * Click `Anchor Bar Controller` > `+` to add a new widget > click `Time Slider` widget and `Inspection Rating Filter` click `OK`.
 
 ![wab_searchwidget](./wab_searchwidget.png)
 
-6. Click `Attribute` and change the subtitle to `Who has the best score?`.
+6. Click `Attribute` and change the subtitle to `Inspection Ratings`.
 
 7. Click `Save`.
 
-8. Click `Launch` to test the application. Try searching for your favorite spot (e.g., Amaya's Taco Village) to view the score.
+8. Click `Launch` to test the application. At map load you will notice there are no features on the map. Click `Inspection Ratings Filter` button to filter features by ratings by count and extent. This is an example of how to query a feature service, however what if we wanted to load query results when the map is loaded?
+
+9.  
 
 4. Click Save>Launch.
 
