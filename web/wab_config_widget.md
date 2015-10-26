@@ -8,7 +8,7 @@ In this lab you will add a configurable Widget to Web AppBuilder.
 
 3. In `Theme` click `Launchpad Theme` > click `Map` > `Choose Web Map` > `Public` > `ArcGIS.com` and search for `tnris inspection scores`. Click the `Restaurant Inspection Scores Austin` map and click `OK`.
 
-4. Click `Widget` > click `Anchor Bar Controller` > `+` to add a new widget > click `Time Slider` widget and `Inspection Rating Filter` > click `OK`.
+4. Click `Widget` > click `Anchor Bar Controller` > `+` to add a new widget > click `Time Slider` and `Inspection Rating Filter` > click `OK`.
 
  ![wab_searchwidget](./wab_queryfilterwidget.PNG)
 
