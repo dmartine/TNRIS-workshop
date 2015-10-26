@@ -23,7 +23,9 @@ In this lab you will add a configurable Widget to Web AppBuilder.
 
 9. Click the widgets folder (e.g., webappbuilder\server\apps\1) for your existing application.
 
-10. Click `config.json` and open that file. Scroll down to line 230, if you're not using a code editor look for "name": "FeatureLayer_filter",
+10. Click `config.json` and open that file. Scroll down to line 230, if you're not using a code editor look for
+```json 
+"name": "FeatureLayer_filter",
         "label": "Inspection Ratings Filter",
         "version": "0.1.1",
         "uri": "widgets/FeatureLayer_filter/Widget",
@@ -31,6 +33,7 @@ In this lab you will add a configurable Widget to Web AppBuilder.
         "openAtStart": true,
         "id": "widgets_FeatureLayer_filter_Widget_32" 
 
+```
 4. Click Save>Launch.
 
 
