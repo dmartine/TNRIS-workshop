@@ -32,4 +32,5 @@ In this lab, you will use AppStudio to build a native app from a single webmap.
 
 13. Open AppStudio for ArcGIS on your desktop and click `Sign In`. Click the thumbnail icon for your app and select `Yes` to download the selected app to your computer. After the download completes double click your app and now have that app running in AppStudio Player. 
 
+You are now ready to deploy your native app. Proceed to the next lab [Deploy an AppStudio App](./deploy_an_appstudio_app.md).
 
