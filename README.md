@@ -14,6 +14,7 @@ Follow these steps to prepare for the workshop.
  * Uncheck `Only search in my account/organization`.
  * Join the group.
 3. Sign up for a GitHub account if you don't have one.
+4. A code editor such as [notepad++] (https://notepad-plus-plus.org/), [Sublime] (http://www.sublimetext.com/2) or David's favorite [Visual Studio Code](https://code.visualstudio.com/Download).
 
 ## Labs
 
