@@ -15,15 +15,13 @@ In this lab you will add a configurable Widget to Web AppBuilder.
 
  ![wab_searchwidget](./wab_queryfilterwidget.PNG)
 
-6. Click `Attribute` and change the subtitle to `Inspection Ratings`.
+6. Click `Attribute` and change the subtitle to `Inspection Ratings` > click `Save`.
 
-7. Click `Save`.
+7. Click `Launch` to test the application. On map load you will notice there are no features on the map. Click `Inspection Ratings Filter` button to filter features by ratings by count and extent. This is an example of how to query a feature service, however what if we wanted to load query results when the map is loaded?
 
-8. Click `Launch` to test the application. On map load you will notice there are no features on the map. Click `Inspection Ratings Filter` button to filter features by ratings by count and extent. This is an example of how to query a feature service, however what if we wanted to load query results when the map is loaded?
+8. Click the widgets folder (e.g., webappbuilder\server\apps\1) for your existing application.
 
-9. Click the widgets folder (e.g., webappbuilder\server\apps\1) for your existing application.
-
-10. Click `config.json` and open that file. Scroll down to line 229, if you're not using a code editor look for
+9. Click `config.json` and open that file. Scroll down to line 229, if you're not using a code editor look for
 ```json 
         "name": "FeatureLayer_filter",
         "label": "Inspection Ratings Filter",
@@ -33,7 +31,7 @@ In this lab you will add a configurable Widget to Web AppBuilder.
         "id": "widgets_FeatureLayer_filter_Widget_32" 
 
 ```
-11. Under `index` add `"openAtStart": true,` > click `Save`. This will launch the Inspection Ratings Filter when the app opens. Your JSON should now appear as below:
+10. Under `index` add `"openAtStart": true,` > click `Save`. This will launch the Inspection Ratings Filter when the app opens. Your JSON should now appear as below:
 ```json
         "name": "FeatureLayer_filter",
         "label": "Inspection Ratings Filter",
@@ -44,7 +42,7 @@ In this lab you will add a configurable Widget to Web AppBuilder.
         "id": "widgets_FeatureLayer_filter_Widget_32"
 
 ```
-12. Launch your application and you will notice the features for A rating restaurants based on the inspection scores will load.
+11. Launch your application and you will notice the features for A rating restaurants based on the inspection scores will load.
 This feature service contains over 10,000 features and the query filter certainly helps with querying the information we are looking for. However, there are just too many points to visualize and understand this data. This data also contains an inspection date field in which we can query by rating and date. Click `Time Slider` widget to visualizing this data over time and rating.  
 
 
