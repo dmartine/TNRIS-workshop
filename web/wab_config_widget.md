@@ -19,7 +19,7 @@ In this lab you will add a configurable Widget to Web AppBuilder.
 7. Click the widgets folder (e.g., webappbuilder\server\apps\1) for your existing application.
 
 8. Double click `config.json` to open it. Scroll down to line 229, if you're not using a code editor that has number lines look for
-```json 
+ ```json 
         "name": "FeatureLayer_filter",
         "label": "Inspection Ratings Filter",
         "version": "0.1.1",
@@ -27,18 +27,18 @@ In this lab you will add a configurable Widget to Web AppBuilder.
         "index": 5,
         "id": "widgets_FeatureLayer_filter_Widget_32" 
 
-```
+ ```
 9. Under `index` add `"openAtStart": true,` > click `Save`. This will launch the Inspection Ratings Filter widget when the app opens. Your JSON should now appear as below:
-```json
-        "name": "FeatureLayer_filter",
-        "label": "Inspection Ratings Filter",
+ ```json
+         "name": "FeatureLayer_filter",
+         "label": "Inspection Ratings Filter",
         "version": "0.1.1",
         "uri": "widgets/FeatureLayer_filter/Widget",
         "index": 5,
         "openAtStart": true,
         "id": "widgets_FeatureLayer_filter_Widget_32"
 
-```
+ ```
 10. Launch your application and you will notice the features for "A" rating restaurants load with the app. This feature service contains over 10,000 features and the filter certainly helps with querying the information based on rating. However, there are just too many points to visually understand this data. This data also contains an inspection date field which will allow us to query by rating and date. Click `Time Slider` widget and click the `play` button to visualize this data over time and rating. Change the ratings to see how the data changes by months and areas.    
 
 
