@@ -14,7 +14,7 @@ In this lab you will add a configurable Widget to Web AppBuilder.
 
 5. Click `Attribute` and change the subtitle to `Inspection Ratings` > click `Save`.
 
-6. Click `Launch` to test the application. On map load you will notice there are no features on the map. Click `Inspection Ratings Filter` button to filter features by ratings and extent. This is an example of how to query a feature service, however, what if we wanted to load query results when the map is loaded?
+6. Click `Launch` to test the application. On map load you will notice there are no features on the map. Click `Inspection Ratings Filter` button to filter features by ratings and extent. This is an example of how to query a feature service. However, what if we wanted to load query results when the map is loaded?
 
 7. Click the widgets folder (e.g., webappbuilder\server\apps\1) for your existing application.
 
@@ -39,6 +39,6 @@ In this lab you will add a configurable Widget to Web AppBuilder.
         "id": "widgets_FeatureLayer_filter_Widget_32"
 
 ```
-10. Launch your application and you will notice the features for "A" rating restaurants load with the app. This feature service contains over 10,000 features and the filter certainly helps with querying the information we are looking for. However, there are just too many points to visually understand this data. This data also contains an inspection date field in which we can query by rating and date. Click `Time Slider` widget and click the `play` button to visualize this data over time and rating. Change the ratings to see if certains months and areas are more busy the others.    
+10. Launch your application and you will notice the features for "A" rating restaurants load with the app. This feature service contains over 10,000 features and the filter certainly helps with querying the information based on rating. However, there are just too many points to visually understand this data. This data also contains an inspection date field which will allow us to query by rating and date. Click `Time Slider` widget and click the `play` button to visualize this data over time and rating. Change the ratings to see how the data changes by months and areas.    
 
 
