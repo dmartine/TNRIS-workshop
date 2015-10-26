@@ -30,8 +30,8 @@ In this lab you will add a configurable Widget to Web AppBuilder.
  ```
 9. Under `index` add `"openAtStart": true,` > click `Save`. This will launch the Inspection Ratings Filter widget when the app opens. Your JSON should now appear as below:
  ```json
-         "name": "FeatureLayer_filter",
-         "label": "Inspection Ratings Filter",
+        "name": "FeatureLayer_filter",
+        "label": "Inspection Ratings Filter",
         "version": "0.1.1",
         "uri": "widgets/FeatureLayer_filter/Widget",
         "index": 5,
