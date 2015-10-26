@@ -44,6 +44,6 @@ In this lab you will add a configurable Widget to Web AppBuilder.
         "id": "widgets_FeatureLayer_filter_Widget_32"
 
 ```
-4. Click Save>Launch.
+4. Launch your application and .
 
 
