@@ -11,7 +11,7 @@ In this lab you will add a configurable Widget to Web AppBuilder.
 3. Click `Map` > `Choose Web Map` > `Public` > `ArcGIS.com` and search for `tnris inspection scores`. Click the `Restaurant Inspection Scores Austin` map and click `OK`.
 
 4. Click `Widget`
-  * Click `Anchor Bar Controller` > `+` to add a new widget > click `Time Slider` widget and `Inspection Rating Filter` click `OK`.
+  * Click `Anchor Bar Controller` > `+` to add a new widget > click `Time Slider` widget and `Inspection Rating Filter` > click `OK`.
 
 ![wab_searchwidget](./wab_searchwidget.png)
 
@@ -19,9 +19,17 @@ In this lab you will add a configurable Widget to Web AppBuilder.
 
 7. Click `Save`.
 
-8. Click `Launch` to test the application. At map load you will notice there are no features on the map. Click `Inspection Ratings Filter` button to filter features by ratings by count and extent. This is an example of how to query a feature service, however what if we wanted to load query results when the map is loaded?
+8. Click `Launch` to test the application. On map load you will notice there are no features on the map. Click `Inspection Ratings Filter` button to filter features by ratings by count and extent. This is an example of how to query a feature service, however what if we wanted to load query results when the map is loaded?
 
-9.  
+9. Click the widgets folder (e.g., webappbuilder\server\apps\1) for your existing application.
+
+10. Click `config.json` and open that file. Scroll down to line 230, if you're not using a code editor look for "name": "FeatureLayer_filter",
+        "label": "Inspection Ratings Filter",
+        "version": "0.1.1",
+        "uri": "widgets/FeatureLayer_filter/Widget",
+        "index": 5,
+        "openAtStart": true,
+        "id": "widgets_FeatureLayer_filter_Widget_32" 
 
 4. Click Save>Launch.
 
