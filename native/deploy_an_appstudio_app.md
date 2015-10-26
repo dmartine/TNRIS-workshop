@@ -8,4 +8,4 @@ In this lab, you will deploy an app created with AppStudio.
 
 3. Once your request is completed click `Download` > extract the zip > click `Setup` to install the app. Double click the app icon to launch the app.
 
-4. Congratulations you just created a native application with AppStudio for ArcGIS for the the Windows operating system.  
+4. Congratulations, you just created a native application with AppStudio for ArcGIS for the Windows operating system.  
