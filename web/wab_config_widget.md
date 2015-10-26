@@ -13,7 +13,7 @@ In this lab you will add a configurable Widget to Web AppBuilder.
 4. Click `Widget`
   * Click `Anchor Bar Controller` > `+` to add a new widget > click `Time Slider` widget and `Inspection Rating Filter` > click `OK`.
 
-![wab_searchwidget](./wab_queryfilterwidget.png)
+![wab_searchwidget](./wab_queryfilterwidget.PNG)
 
 6. Click `Attribute` and change the subtitle to `Inspection Ratings`.
 
