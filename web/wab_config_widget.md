@@ -13,7 +13,7 @@ In this lab you will add a configurable Widget to Web AppBuilder.
 4. Click `Widget`
   * Click `Anchor Bar Controller` > `+` to add a new widget > click `Time Slider` widget and `Inspection Rating Filter` > click `OK`.
 
-![wab_searchwidget](./wab_searchwidget.png)
+![wab_searchwidget](./wab_queryfilterwidget.png)
 
 6. Click `Attribute` and change the subtitle to `Inspection Ratings`.
 
@@ -33,7 +33,7 @@ In this lab you will add a configurable Widget to Web AppBuilder.
         "id": "widgets_FeatureLayer_filter_Widget_32" 
 
 ```
-11. Under `index` add `"openAtStart": true,` > click `Save`. This will launch the Inspection Ratings Filter when the map loads. Your JSON should now appear as below:
+11. Under `index` add `"openAtStart": true,` > click `Save`. This will launch the Inspection Ratings Filter when the app opens. Your JSON should now appear as below:
 ```json
         "name": "FeatureLayer_filter",
         "label": "Inspection Ratings Filter",
@@ -44,6 +44,7 @@ In this lab you will add a configurable Widget to Web AppBuilder.
         "id": "widgets_FeatureLayer_filter_Widget_32"
 
 ```
-4. Launch your application and .
+12. Launch your application and you will notice the features for A rating restaurants based on the inspection scores will load.
+This feature service contains over 10,000 features and the query filter certainly helps with querying the information we are looking for. However, there are just too many points to visualize and understand this data. This data also contains an inspection date field in which we can query by rating and date. Click `Time Slider` widget to visualizing this data over time and rating.  
 
 
