@@ -2,7 +2,7 @@
 
 In order to integrate custom widgets and themes it's necessary to host applications on your own web server.  In this lab you will download Web AppBuilder Developer Edition and configure it to run on your local machine.
 
-1. Download [Web AppBuilder Dev Edition] (https://developers.arcgis.com/web-appbuilder/) and unzip it in the folder of your choice.
+1. Download Web AppBuilder Dev Edition from [here] (https://developers.arcgis.com/web-appbuilder/) and select download. Unzip it in the folder of your choice.
 
 2. Follow the instructions [here](https://developers.arcgis.com/web-appbuilder/guide/getstarted.htm) to confirm the builder is running.
 
