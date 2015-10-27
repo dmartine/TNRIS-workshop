@@ -35,6 +35,7 @@ function(declare, BaseWidget, SimpleMarkerSymbol, Graphic) {
           "height": 210
         },
         "version": "1.3"
+        },
   ```
  
 5. Now launch your application and your new widget appears. If not, do any errors appear in the developer tools?
