@@ -27,6 +27,7 @@ function(declare, BaseWidget, SimpleMarkerSymbol, Graphic) {
 4. Click the config.json file associated with the application and add the uri
    and JSON below to include the widget. You can replace the first widget on line 27 "uri": "widget/Scalebar/Widget", 
   ```json
+  {
   "uri": "widgets/SimpleGraphic/Widget",
         "position": {
           "left": 55,
