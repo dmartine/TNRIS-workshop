@@ -156,14 +156,15 @@ In this lab you will add a custom theme to Web AppBuilder and style the Geocoder
 
 	```json
 	{
-	      "uri": "widgets/GeocoderCustom/Widget",
-	      "positionRelativeTo": "browser",
-	      "position": {
-	        "right": 15,
-	        "top": 5
-	      },
-	     "style":{"z-index":1000},
-	     "version": "1.2"
+      "uri": "widgets/GeocoderCustom/Widget",
+      "positionRelativeTo": "browser",
+      "position": {
+        "right": 15,
+        "top": 5
+      },
+     "style":{"z-index":1000},
+     "version": "1.2"
+    }, 
 	```
 
 7. Click Widgets\HeaderController\Widget.js to add some space for the geocoder in the header controller. Find the _calcContainerAndEmptyWidth method and at the end of the if statement for (containerWidth < this.iconwidth * 2)
